@@ -2,6 +2,8 @@
 
 A modern, full-stack NFL trivia web application featuring real-time authentication, dynamic game mechanics, and competitive leaderboards. Built to showcase modern web development practices and clean UI/UX design.
 
+Live App: https://www.weeklyblitztrivia.com/
+
 ## ✨ Features
 
 - **🎮 Interactive Trivia Game**
