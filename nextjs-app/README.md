@@ -57,8 +57,8 @@ A modern, full-stack NFL trivia web application featuring real-time authenticati
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weekly-blitz-trivia.git
-   cd weekly-blitz-trivia/nextjs-app
+   git clone https://github.com/ThadFlournoy/Weekly-Blitz-Trivia.git
+   cd Weekly-Blitz-Trivia/nextjs-app
    ```
 
 2. **Install dependencies**
@@ -72,7 +72,6 @@ A modern, full-stack NFL trivia web application featuring real-time authenticati
    ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-   OPENAI_API_KEY=your_openai_api_key_optional
    ```
 
 4. **Set up Supabase Database**
@@ -92,7 +91,6 @@ nextjs-app/
 │   ├── app/
 │   │   ├── layout.tsx           # Root layout with background
 │   │   ├── page.tsx             # Home page with modal
-│   │   ├── loading.tsx          # Global loading screen
 │   │   ├── about/               # About page
 │   │   ├── auth/                # Authentication page
 │   │   ├── game/                # Game logic & board
@@ -172,9 +170,8 @@ This is a portfolio project, but suggestions are welcome! Feel free to open an i
 ## 📧 Contact
 
 **Thad Flournoy**
-- Portfolio: [your-portfolio.com](#)
-- LinkedIn: [your-linkedin](#)
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/thadflournoy/](#)
+- Email: thadflournoy7@gmail.com
 
 ## 📄 License
 
@@ -183,10 +180,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Built with ❤️ using Next.js, TypeScript, and Supabase
-
-## 📱 Features
-- Server-side rendering
-- TypeScript support
-- Tailwind CSS styling
-- ESLint configuration
-- Optimized for NFL trivia gameplay
