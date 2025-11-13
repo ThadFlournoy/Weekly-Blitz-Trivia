@@ -170,7 +170,7 @@ This is a portfolio project, but suggestions are welcome! Feel free to open an i
 ## 📧 Contact
 
 **Thad Flournoy**
-- LinkedIn: [https://www.linkedin.com/in/thadflournoy/](#)
+- LinkedIn: [linkedin.com/in/thadflournoy](https://www.linkedin.com/in/thadflournoy/)
 - Email: thadflournoy7@gmail.com
 
 ## 📄 License
